@@ -1,0 +1,52 @@
+.banner {
+  height: 200px;
+  background-color: #264F93;
+}
+
+.whitetitle {
+  color: white;
+  padding: 45px;
+}
+
+hr {
+  width: 7%
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 0; 
+  height: 100%;
+  overflow: hidden
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%
+}
+
+.learn-more-banner {
+
+  background-color: #264E93;
+  height: 160px;
+  padding-top: 50px;
+}
+
+.learn-more-title {
+  font-size: 1.7em;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.bottombutton {
+  background-color: #FFFFFF;
+  border: none;
+  color: black;
+  padding: 12px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
